@@ -27,7 +27,6 @@
 ### Projects
 
 #### 워크마이닝 [2022.06 - 2024.12]
-[![Play Store](https://img.shields.io/badge/Google_Play_Link-414141?style=for-the-badge&logoColor=white)](https://play.google.com/store/apps/details?id=com.walkmining.app.prod&hl=ko)
 ![walkmining-capture](https://github.com/user-attachments/assets/7fca6265-50d6-484a-9660-ae93cd79be7d)
 
 설명
@@ -48,8 +47,6 @@
 - 서비스 유지보수
 
 #### 캐시닥 [2019.05 - 2022.05]
-[![Play Store](https://img.shields.io/badge/Google_Play_Link-414141?style=for-the-badge&logoColor=white)](https://play.google.com/store/apps/details?id=com.cashdoc.cashdoc&hl=ko&gl=US)
-[![One Store](https://img.shields.io/badge/One_Store_Link-CC0F16?style=for-the-badge&logoColor=white)](https://m.onestore.co.kr/ko-kr/apps/appsDetail.omp?prodId=0000743828)
 ![cashdoc-capture](https://github.com/user-attachments/assets/77932d7c-c306-4282-8a61-dcaa353c85fe)
 설명
 - 사용자의 금융 정보를 연동하여 자산을 한눈에 파악할 수 있고, 가계부 기능을 통해 수입과 지출 내역을 관리하여 사용자의 자산 관리에 도움을 주는 마이 데이터 서비스입니다.
@@ -69,7 +66,6 @@
 - 서비스 유지보수
 
 #### 캐시워크 [2018.01 - 2019.04]
-[![Play Store](https://img.shields.io/badge/Google_Play_Link-414141?style=for-the-badge&logoColor=white)](https://play.google.com/store/apps/details?id=com.cashwalk.cashwalk&hl=ko&gl=US)
 ![cashwalk-capture](https://github.com/user-attachments/assets/b83d30a1-40a9-4696-b5a5-b98a5ca78d70)
 설명
 - 만보기 기능과 인바디 체중계와 같은 건강 추적 기기를 앱과 연동하여 사용자의 일상적인 활동을 모니터링하고 건강 데이터를 기반으로 포인트를 지급하는 건강관리 리워드 서비스입니다.
@@ -79,7 +75,7 @@
 
 담당
 - 인바디 체중계 BLE 연동
-- 기존 Java 코드중 30% Kotlin으로 변환
+- 기존 Java 코드중 30%를 Kotlin으로 변환
 - 전체 기능의 50% 리뉴얼 작업
 - 프로젝트 초기 ButterKnife, Lombok 도입
 - 서비스 유지보수

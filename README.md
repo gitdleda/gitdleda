@@ -79,7 +79,7 @@
 
 담당
 - 인바디 체중계 BLE 연동
-- 기존 Java로 작성되어 있던 코드중 30% Kotlin으로 변환
+- 기존 Java 코드중 30% Kotlin으로 변환
 - 전체 기능의 50% 리뉴얼 작업
 - 프로젝트 초기 ButterKnife, Lombok 도입
 - 서비스 유지보수
